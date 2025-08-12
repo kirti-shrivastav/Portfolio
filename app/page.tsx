@@ -22,7 +22,7 @@ export default function Portfolio() {
     location: "Jaipur, India",
     linkedin: "https://linkedin.com/in/kirti20feb",
     behance: "https://www.behance.net/gallery/207581035/UIUX-CASE-STUDY", // Keep behance for other sections if needed
-    cvPath: "/kirti-shrivastava-cv.pdf", // Path to the CV file
+    cvPath: "/kirti-cv.pdf", // Path to the CV file
   }
 
   const skills = [
@@ -137,7 +137,7 @@ export default function Portfolio() {
       description: "Clean, intuitive mobile app interface design with focus on user experience and modern aesthetics.",
       category: "Mobile App",
       color: "from-blue-500 to-cyan-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-49783&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A49783&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Riya Soni Kundan House",
@@ -145,7 +145,7 @@ export default function Portfolio() {
       description: "Luxury jewelry brand website with elegant design showcasing premium products and craftsmanship.",
       category: "E-commerce",
       color: "from-purple-500 to-pink-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-69006&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A69006&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Neel Initiative",
@@ -154,7 +154,7 @@ export default function Portfolio() {
         "Agri-tech platform empowering farmers through soil health insights with data-driven interface design.",
       category: "AgriTech",
       color: "from-green-500 to-emerald-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-43080&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A43080&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Bondspe Website",
@@ -162,7 +162,7 @@ export default function Portfolio() {
       description: "Responsive web design for the Bondspe platform, ensuring seamless user experience across devices.",
       category: "Web Design",
       color: "from-teal-500 to-blue-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=82-8720&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=82%3A8720&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Brixcode Technologies",
@@ -171,7 +171,7 @@ export default function Portfolio() {
         "Corporate tech service website design focusing on professional presentation and clear service offerings.",
       category: "Corporate Website",
       color: "from-indigo-500 to-purple-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-40872&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A40872&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Legal Republic",
@@ -179,7 +179,7 @@ export default function Portfolio() {
       description: "Legal services platform with focus on trust, clarity, and professional user experience design.",
       category: "Legal Services",
       color: "from-orange-500 to-red-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=79-1842&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=79%3A1842&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Handy Craftly",
@@ -187,7 +187,7 @@ export default function Portfolio() {
       description: "Colorful eCommerce UI showcasing handmade products with intuitive navigation and engaging visuals.",
       category: "E-commerce",
       color: "from-pink-500 to-rose-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-36636&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A36636&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Devicecure Homepage",
@@ -195,7 +195,7 @@ export default function Portfolio() {
       description: "Doorstep mobile repair service homepage design that boosted user engagement and conversions.",
       category: "Service Platform",
       color: "from-yellow-500 to-orange-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-36442&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A36442&show-proto-sidebar=1", // Added demo link
     },
     {
       title: "Game Studio UI/UX",
@@ -204,7 +204,7 @@ export default function Portfolio() {
         "Designed intuitive and engaging user interfaces for a hypothetical game studio, focusing on player experience.",
       category: "Game UI/UX",
       color: "from-red-500 to-purple-500",
-      demoLink: "#", // Added demo link
+      demoLink: "https://www.figma.com/proto/EGomP43xrQ9AZBMVkI79Iy/kirti-shrivastava?node-id=57-37880&t=GaJYt6J7WgbTRcV7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=57%3A37880&show-proto-sidebar=1", // Added demo link
     },
   ]
 
