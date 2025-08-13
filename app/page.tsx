@@ -115,13 +115,13 @@ export default function Portfolio() {
       degree: "Bachelor of Arts",
       institution: "S.S.G. Pareek PG College",
       year: "2023",
-      grade: "63%",
+      grade: "",
     },
     {
       degree: "12th Grade",
       institution: "Army Public School",
       year: "2019",
-      grade: "68%",
+      grade: "",
     },
   ]
 
